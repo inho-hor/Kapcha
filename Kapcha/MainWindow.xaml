@@ -21,4 +21,4 @@
                 HorizontalAlignment="Center" VerticalAlignment="Bottom"
                 Margin="10" Width="200" Height="50" Click="btnKapcha_Click"/>
     </Grid>
-</Window><<!---->
+</Window>
